@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently building: **[Movies App](https://github.com/Vansh111000/moviesapp)**  
+- 🔭 I’m currently building: **[Movies App]((https://github.com/AAYUSHI1507/AAYUSHI1507/blob/main/README.md?plain=1))**  
 - 🌱 I’m leveling up in: `React`, `Three.js`, `GSAP`, `Arduino`, and `C`  
 - 👯 I’m looking to collaborate on: **Open Source** and **Freelance Projects**
 - 💼 I'm available for: **Frontend, Backend, or Full Stack projects**
