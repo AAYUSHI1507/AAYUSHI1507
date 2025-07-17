@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aayushi Kataria</h1>
-<h3 align="center">🚀guturgu guturgu Full Stack Developer </h3>
+<h3 align="center">🚀Full Stack Developer </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Turning+Ideas+Into+Reality;Learning+Every+Day;Building+Cool+Projects;Let's+Create+Something+Great!" />
