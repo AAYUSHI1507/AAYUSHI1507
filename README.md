@@ -10,11 +10,10 @@
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently building: **[Movies App]((https://github.com/AAYUSHI1507/AAYUSHI1507/blob/main/README.md?plain=1))**  
-- 🌱 I’m leveling up in: `React`, `Three.js`, `GSAP`, `Arduino`, and `C`  
+- 🌱 I’m leveling up in: `React`, `Python`, `Jupiter Notebook`, `Data Science`,` data analytics`, and `C`  
 - 👯 I’m looking to collaborate on: **Open Source** and **Freelance Projects**
-- 💼 I'm available for: **Frontend, Backend, or Full Stack projects**
+- 💼 I'm available for: **Data Science, data analytics, Frontend, Backend, or Full Stack projects**
 - ⚡ Fun fact: I love solving real-world problems with code  
-- 🧠 Goal: Become a **Pro Developer** 💻💪
 
 ---
 
@@ -77,16 +76,13 @@
 
 | Project | Description |
 |--------|-------------|
-| [**Healthcare Assistant App**](https://github.com/Vansh111000/TeamZenith-prac) | React Native + Flask backend + ML + DOCX reports |
-| [**Movies Mobile App**](https://github.com/yourusername/material-supply-web) | All Movies, Details system, blogs, and Aesthatic UI |
+| [**Medical-Cost-Personal-insaurance**](https://github.com/AAYUSHI1507/Medical-Cost-Personal-insaurance) | Pipelines, Python, Jupiter notebook |
+| [**Sarcasm Detection**](https://github.com/AAYUSHI1507/SarcasmDetection) | Flask, Python, Easy to use  |
 
 <!---
 <br />
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ApurvShah007&repo=Algorithmic-Trading)](https://github.com/ApurvShah007/Algorithmic_trading)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Apurvshah007&repo=portfolio-optimizer)](https://github.com/ApurvShah007/portfolio-optimizer)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChiragJhawar&repo=ProjectReward)](https://github.com/ChiragJhawar/ProjectReward)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stocksmith&repo=ml-research)](https://github.com/stocksmith/ml-research)
+
 
 <br />
  -->
