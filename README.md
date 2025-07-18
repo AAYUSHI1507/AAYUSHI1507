@@ -56,18 +56,18 @@
 ### 🔗 Let's Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/vansh-kataria-a2056b22b/" target="_blank">
+  <a href="https://www.linkedin.com/in/aayushi-k-868125200/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:vansh.sk@somaiya.edu">
+<!--   <a href="mailto:vansh.sk@somaiya.edu">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://vanshskataria.com" target="_blank">
+  </a> -->
+<!--   <a href="https://vanshskataria.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://x.com/vanshskataria" target="_blank">
+  </a> -->
+<!--   <a href="https://x.com/vanshskataria" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
+  </a> -->
 </p>
 
 ---
